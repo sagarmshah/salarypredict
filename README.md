@@ -6,8 +6,11 @@ Spring app to predict salary
 
 Developed a Spring boot web app to predict annual salary from a given job title. Created API to predict the latest salary trends in the UK and US. Also, supports speech processing where a user speaks a job title and the relevant salary trend is displayed.
 The app operates in three layers - Controller, Service, and Dao
+
 1. Controller - the Controller handles the request mapping received from the browser by the user’s HTTP request and calls the appropriate service.
+
 2. Service - this layer represents the logical representation of the app. It invokes the appropriate Dao which returns the output data. This data is returned to the Controller.
+
 3. Dao - the data access object, queries the data and returns the appropriate results to the Service.
 The input for speech processing controller is pre-recorded by a user and supplied to the appropriate API.
 
