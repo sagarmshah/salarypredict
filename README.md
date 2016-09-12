@@ -26,8 +26,6 @@ STS comes with spring boot and includes maven that downloads all the dependencie
 1. After navigating to the project directory, use a terminal and give the following command - mvn spring-boot:run
 2. On a second terminal navigate to the created api and run - curl localhost:8080/ salarypredict/usa/accountant
 
-NOTE 
-
-Also, shared on the following link with extra files and results shown in a read me file -
+NOTE: Also, shared on the following link with extra files and results shown in a read me file -
 
 https://drive.google.com/open?id=0B_DLuJshkXLAYUxKLWdzbWo0a2c
