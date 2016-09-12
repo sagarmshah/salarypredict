@@ -19,7 +19,7 @@ STS comes with spring boot and includes maven that downloads all the dependencie
 
 1. Glassdoor - https://www.glassdoor.com/developer/index.htm
 2. Adzuna - https://developer.adzuna.com/overview
-3. IBM Watson Speech to Text - http://www.ibm.com/watson/developercloud/doc/ speech-to-text/
+3. IBM Watson Speech to Text - http://www.ibm.com/watson/developercloud/doc/speech-to-text/
 
 ## How to Use it? (Steps)
 
